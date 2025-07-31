@@ -1,2 +1,22 @@
-# Aurora-Assistant-
-The Aurora virtual assistant, made using the C++ programming language, has functions for determining the time on a PC, determining the processor temperature, calculating complex mathematical and geometric problems, and translating from ASCII tables to OCT, HEX, and DEC.
+Aurora is a virtual assistant created using the C++ programming language.
+
+Features:
+1. Solving geometric problems (calculating volume, etc.).
+2. Solving mathematical problems (roots, powers, logarithms).
+3. Translation from ASCII tables.
+4. Calculating processor temperature.
+5. Calculating time on a PC.
+
+Platform Support:
+Note: Aurora is designed for Windows only.
+On other operating systems (Linux/macOS), functionality may be limited or unavailable due to system-specific dependencies (e.g., WMI for CPU temperature).
+
+How to Use:
+Download the Aurora.exe file from the repository.
+Run the .exe file by double-clicking it.
+Follow the on-screen instructions in the terminal interface.
+The interface is minimalistic but easy to understand.
+
+Info:
+Version - Aurora 1.3
+Date - 07/31/2025
