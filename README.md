@@ -19,4 +19,4 @@ The interface is minimalistic but easy to understand.
 
 Info:
 Version - Aurora 1.3
-Date - 07/31/2025
+Date - 31/07/2025
