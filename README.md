@@ -1,12 +1,13 @@
 Aurora is a virtual assistant created using the C++ programming language.
 
 Changelog:
-1. Solving geometric problems 2 (surface area, volume of prism).
+1. Solving geometric problems 3 (Surface area and volume of cylinder).
 2. Solving mathematical problems 3 (trygonometry added).
-3. Translation from ASCII tables.
+3. Translation from ASCII tables 2 (uder develompent).
 4. Calculating processor temperature.
 5. Calculating time on a PC.
 6. Interface has been upgraded.
+7. .mp3 to .wav file converter.
 
 Platform Support:
 Note: Aurora is designed for Windows only.
@@ -19,5 +20,5 @@ Follow the on-screen instructions in the terminal interface.
 The interface is minimalistic but easy to understand.
 
 Info:
-Version - Aurora 1.3.2
-Date - 05/08/2025
+Version - Aurora 1.4.0
+Date - 17/08/2025
